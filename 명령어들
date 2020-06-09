@@ -1,0 +1,1 @@
+카메라 촬영 : sudo raspistill -o test.jpg
