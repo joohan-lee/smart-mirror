@@ -1,0 +1,31 @@
+<magicMirror 설치>
+
+curl -sL https://deb.nodesource.com/setup_10.x| sudo -E bash -
+
+sudo apt install -y nodejs
+
+git clone https://github.com/MichMich/MagicMirror
+
+cd MagicMirror/
+
+npm install
+
+cp config/config.js.sample config/config.js
+
+npm run start
+
+
+
+<config/config.js 에서 여러가지 수정 가능>
+
+
+
+<MMM-googleAssitant 설치>
+
+cd ~/MagicMirror/modules
+
+git clone https://github.com/bugsounet/MMM-GoogleAssistant
+
+cd MMM-GoogleAssistant
+
+npm install
