@@ -29,3 +29,16 @@ git clone https://github.com/bugsounet/MMM-GoogleAssistant
 cd MMM-GoogleAssistant
 
 npm install
+
+
+
+
+
+<인증절차 (api등록)>
+cd ~/MagicMirror/modules/MMM-GoogleAssistant/
+
+node auth_and_test.js
+
+//credetinals.js (구글 api의 O-Auth 다운로드해서 client-뭐시기로 되잇는거를 이름을 credentials.json으로 바꿔줘야함.)
+
+
