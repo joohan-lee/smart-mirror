@@ -1,3 +1,6 @@
+#라즈비안에 tensorflow 설치 시
+#pip3 install tensorflow --user (--user를 붙여주어야 함)
+
 import dlib #face detection, landmark detection, face allignment
 import matplotlib.pyplot as plt #이미지 띄어줄것
 import matplotlib.patches as patches
