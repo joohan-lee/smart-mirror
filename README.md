@@ -4,6 +4,8 @@
 
 Checkout a demo video of our work [here](https://www.youtube.com/watch?v=BQvdD-lqlTo&feature=youtu.be) (korean)
 
+This repository is mainly for introductory purpose and may be missing some codes.
+
 ## 1. Introduction
 
 Smart mirror is a smart device that is normally used like a common mirror, but acts as a PC monitor or smartphone screen through actions such as voice and touch. Recently there have been significant interest in IoT such as smart mirrors, wearable devices. The global smart mirror market was valued at about $1.9 billion in 2018 and is expected to show an average annual growth rate of 11.68% from 2019 to 2026. If we can develop customized smart mirrors so that each user can use them with functions they want, it will maximize the convenience of life. Therefore, we tried to develop a smart mirror which has various functions. For example, informing calendar, weather, stock prices, emails, and news, voice controls, and makeup transfers.
