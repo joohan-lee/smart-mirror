@@ -40,3 +40,7 @@ We processed the frame, and then put the monitor connected to the Raspberry Pi i
 - Makeup transfer experience [function](makeup.py) using pre-trained GAN model, [BeautyGAN](https://github.com/Honlan/BeautyGAN).
   - Input data: User's face image without makeup, User's face image with makeup
   - Output data: User's face image with chosen makeup
+
+## 4. Awards
+
+- 3rd prize in Capstone design competition
